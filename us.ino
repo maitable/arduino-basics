@@ -1,3 +1,4 @@
+//radar that lights up
 const int trigPin = 10;
 const int echoPin = 11;
 const int red = 7;
