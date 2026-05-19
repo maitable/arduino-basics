@@ -1,4 +1,4 @@
-
+//semafor
 void setup() {
   pinMode(7, OUTPUT); // rosu
   pinMode(8, OUTPUT); // galben
