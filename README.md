@@ -14,5 +14,15 @@
 
 ### us/
 <ul>
-<li><strong>us.ino</strong>: three leds (green, yellow, red) light up as ultrasonic sensor deetects a closer object</li>
+<li><strong>us.ino</strong>: three LEDs (green, yellow, red) light up as ultrasonic sensor deetects a closer object</li>
+</ul>
+
+### led/
+<ul>
+<li><strong>led.ino</strong>: traffic light using green, yellow, red LEDs</li>
+</ul>
+
+### joystick/
+<ul>
+<li><strong>joystick.ino</strong>: green LED lights up when x axis is changed, red LED when y axis is changed, clicking turns everything off</li>
 </ul>
