@@ -11,3 +11,8 @@
         <li><strong>servous.ino</strong>: servometer moves mapped to ultrasonic sensor values </li>
     </ul>
 </ul>
+
+### us/
+<ul>
+<li><strong>us.ino</strong>: three leds (green, yellow, red) light up as ultrasonic sensor deetects a closer object</li>
+</ul>
