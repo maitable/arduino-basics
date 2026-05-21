@@ -14,7 +14,7 @@ int distance;
 void setup() {
 pinMode(trigPin, OUTPUT);
 pinMode(echoPin, INPUT);
-servo.attach(9);
+servo.attach(13);
 
 Serial.begin(115200);
 }
